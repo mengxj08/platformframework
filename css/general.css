@@ -1,0 +1,137 @@
+body, html{
+    background-color: #93939c;
+    height: 100%;
+    overflow: hidden;
+    font-family: "Arial";
+    font-size: 12px;
+    color: #ffffff;
+    position: relative;
+}
+
+#Root {
+   width: 100%;
+   position: relative;
+}
+
+#Header {
+    height: 200px;
+    clear: both;
+    width: 100%;
+}
+
+#InstructionAreaBox {
+    margin: 0px;
+    padding: 0px;
+    height: 200px;
+    width: 90%;
+    background-color: #FFFFFF;
+    color: #000000;
+    float: left;
+    
+}
+
+#InstructionArea {
+
+    padding: 10px;
+
+}
+
+#InstructionButtonArea {
+    width: 9%;
+    height: 200px;
+    background-color: #121a2e;
+    color: white;
+    float: right;
+}
+
+a#InstructionButton {
+    width: 50px;
+    color: white;
+}
+
+.pad20 {
+    padding: 20px;
+}
+
+.pad10 {
+    padding: 10px;
+}
+
+.mar20 {
+    margin: 20px;
+}
+
+.mar10 {
+    margin: 10px;
+}
+
+.hide {
+    display: none !important;
+}
+
+.windowClass {
+    background-color: #777777;
+    border: 1px solid white;
+    clear: both;
+    position: absolute;
+}
+.windowClassHandlerTitle {
+    position: static;
+    float: left;
+    width: 90%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 15px;
+    vertical-align: 50%;
+
+}
+.windowClassHandler{
+    position: static;
+    height: 20px;
+    background-color: blue;
+    clear:both;
+
+}
+.windowClassHandlerIcons{
+    position: static;
+    float: right;
+    width: 9%;
+    background-color: blue;
+    color: white;
+    height: 15px;
+}
+.windowClassHandlerIcons div{
+    position: static;
+    float: right;
+}
+.windowContent {
+    position: relative;
+}
+.windowContent * {
+    position: static;
+}
+
+.textArea {
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+.textContent {
+    width: 500px;
+}
+
+.ACPDropDown {
+    position: absolute;
+}
+
+/* Buttons */
+.button {
+	width: 40px;
+	height: 80px;
+}
+
+.highlight { background-color: yellow; color: black; }
+
+
