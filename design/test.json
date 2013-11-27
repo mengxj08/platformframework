@@ -8,90 +8,110 @@
 "name": "Block 0",
 "children": [
 {
-"name": "Condition 0: (SCP, 4D, 20)",
+"name": "Condition 0: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 1: (SCP, 4D, 40)",
+"name": "Condition 1: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 2: (SCP, 6D, 20)",
+"name": "Condition 2: (ACP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 3: (SCP, 6D, 40)",
+"name": "Condition 3: (ACP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 4: (PCP, 4D, 20)",
+"name": "Condition 4: (ACP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 5: (PCP, 4D, 40)",
+"name": "Condition 5: (ACP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 6: (PCP, 6D, 20)",
+"name": "Condition 6: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 7: (PCP, 6D, 40)",
+"name": "Condition 7: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, sentence, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, sentence, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ]
@@ -101,90 +121,110 @@
 "name": "Block 1",
 "children": [
 {
-"name": "Condition 0: (SCP, 4D, 20)",
+"name": "Condition 0: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 1: (SCP, 4D, 40)",
+"name": "Condition 1: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 2: (SCP, 6D, 20)",
+"name": "Condition 2: (ACP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 3: (SCP, 6D, 40)",
+"name": "Condition 3: (ACP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 4: (PCP, 4D, 20)",
+"name": "Condition 4: (ACP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 5: (PCP, 4D, 40)",
+"name": "Condition 5: (ACP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 6: (PCP, 6D, 20)",
+"name": "Condition 6: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 7: (PCP, 6D, 40)",
+"name": "Condition 7: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, sentence, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, sentence, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ]
@@ -199,90 +239,110 @@
 "name": "Block 0",
 "children": [
 {
-"name": "Condition 0: (SCP, 4D, 40)",
+"name": "Condition 0: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 1: (SCP, 4D, 20)",
+"name": "Condition 1: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 2: (SCP, 6D, 40)",
+"name": "Condition 2: (ACP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 3: (SCP, 6D, 20)",
+"name": "Condition 3: (ACP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 4: (PCP, 4D, 40)",
+"name": "Condition 4: (ACP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 5: (PCP, 4D, 20)",
+"name": "Condition 5: (ACP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 6: (PCP, 6D, 40)",
+"name": "Condition 6: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 7: (PCP, 6D, 20)",
+"name": "Condition 7: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, sentence, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, sentence, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ]
@@ -292,90 +352,110 @@
 "name": "Block 1",
 "children": [
 {
-"name": "Condition 0: (SCP, 4D, 40)",
+"name": "Condition 0: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 1: (SCP, 4D, 20)",
+"name": "Condition 1: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 2: (SCP, 6D, 40)",
+"name": "Condition 2: (ACP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 3: (SCP, 6D, 20)",
+"name": "Condition 3: (ACP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 4: (PCP, 4D, 40)",
+"name": "Condition 4: (ACP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 5: (PCP, 4D, 20)",
+"name": "Condition 5: (ACP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 6: (PCP, 6D, 40)",
+"name": "Condition 6: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 7: (PCP, 6D, 20)",
+"name": "Condition 7: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, sentence, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, sentence, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ]
@@ -390,90 +470,110 @@
 "name": "Block 0",
 "children": [
 {
-"name": "Condition 0: (SCP, 6D, 20)",
+"name": "Condition 0: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 1: (SCP, 6D, 40)",
+"name": "Condition 1: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 2: (SCP, 4D, 20)",
+"name": "Condition 2: (CP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 3: (SCP, 4D, 40)",
+"name": "Condition 3: (CP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 4: (PCP, 6D, 20)",
+"name": "Condition 4: (CP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 5: (PCP, 6D, 40)",
+"name": "Condition 5: (CP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 6: (PCP, 4D, 20)",
+"name": "Condition 6: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 7: (PCP, 4D, 40)",
+"name": "Condition 7: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, sentence, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, sentence, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ]
@@ -483,90 +583,110 @@
 "name": "Block 1",
 "children": [
 {
-"name": "Condition 0: (SCP, 6D, 20)",
+"name": "Condition 0: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 1: (SCP, 6D, 40)",
+"name": "Condition 1: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 2: (SCP, 4D, 20)",
+"name": "Condition 2: (CP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 3: (SCP, 4D, 40)",
+"name": "Condition 3: (CP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 4: (PCP, 6D, 20)",
+"name": "Condition 4: (CP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 5: (PCP, 6D, 40)",
+"name": "Condition 5: (CP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 6: (PCP, 4D, 20)",
+"name": "Condition 6: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
 ]
 }
 ,
 {
-"name": "Condition 7: (PCP, 4D, 40)",
+"name": "Condition 7: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
 {"name": "Trial 1"}
 ,
-{"name": "Trial 3"}
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, sentence, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, sentence, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
 ]
 }
 ]
@@ -581,518 +701,8 @@
 "name": "Block 0",
 "children": [
 {
-"name": "Condition 0: (SCP, 6D, 40)",
+"name": "Condition 0: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 1: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 2: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 3: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 4: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 5: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 6: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 7: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-]
-}
-,
-{
-"name": "Block 1",
-"children": [
-{
-"name": "Condition 0: (SCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 1: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 2: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 3: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 4: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 5: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 6: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 7: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-]
-}
-]
-}
-,
-{
-"name": "Participant 4",
-"children": [
-{
-"name": "Block 0",
-"children": [
-{
-"name": "Condition 0: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 1: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 2: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 3: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 4: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 5: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 6: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 7: (SCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-]
-}
-,
-{
-"name": "Block 1",
-"children": [
-{
-"name": "Condition 0: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 1: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 2: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 3: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 4: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 5: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 6: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 7: (SCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-]
-}
-]
-}
-,
-{
-"name": "Participant 5",
-"children": [
-{
-"name": "Block 0",
-"children": [
-{
-"name": "Condition 0: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 1: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 2: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 3: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 4: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 5: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 6: (SCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 7: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-]
-}
-,
-{
-"name": "Block 1",
-"children": [
-{
-"name": "Condition 0: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 1: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 2: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 2"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 3"}
-]
-}
-,
-{
-"name": "Condition 3: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1100,10 +710,8 @@
 }
 ,
 {
-"name": "Condition 4: (SCP, 4D, 40)",
+"name": "Condition 1: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1111,10 +719,8 @@
 }
 ,
 {
-"name": "Condition 5: (SCP, 4D, 20)",
+"name": "Condition 2: (CP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1122,10 +728,8 @@
 }
 ,
 {
-"name": "Condition 6: (SCP, 6D, 40)",
+"name": "Condition 3: (CP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1133,31 +737,8 @@
 }
 ,
 {
-"name": "Condition 7: (SCP, 6D, 20)",
+"name": "Condition 4: (CP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-]
-}
-]
-}
-,
-{
-"name": "Participant 6",
-"children": [
-{
-"name": "Block 0",
-"children": [
-{
-"name": "Condition 0: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1165,10 +746,8 @@
 }
 ,
 {
-"name": "Condition 1: (PCP, 6D, 40)",
+"name": "Condition 5: (CP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1176,10 +755,8 @@
 }
 ,
 {
-"name": "Condition 2: (PCP, 4D, 20)",
+"name": "Condition 6: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1187,10 +764,8 @@
 }
 ,
 {
-"name": "Condition 3: (PCP, 4D, 40)",
+"name": "Condition 7: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1198,10 +773,8 @@
 }
 ,
 {
-"name": "Condition 4: (SCP, 6D, 20)",
+"name": "Condition 8: (ACP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1209,10 +782,8 @@
 }
 ,
 {
-"name": "Condition 5: (SCP, 6D, 40)",
+"name": "Condition 9: (ACP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1220,10 +791,8 @@
 }
 ,
 {
-"name": "Condition 6: (SCP, 4D, 20)",
+"name": "Condition 10: (ACP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1231,10 +800,8 @@
 }
 ,
 {
-"name": "Condition 7: (SCP, 4D, 40)",
+"name": "Condition 11: (ACP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1247,10 +814,8 @@
 "name": "Block 1",
 "children": [
 {
-"name": "Condition 0: (PCP, 6D, 20)",
+"name": "Condition 0: (CP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1258,10 +823,8 @@
 }
 ,
 {
-"name": "Condition 1: (PCP, 6D, 40)",
+"name": "Condition 1: (CP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1269,10 +832,8 @@
 }
 ,
 {
-"name": "Condition 2: (PCP, 4D, 20)",
+"name": "Condition 2: (CP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1280,10 +841,8 @@
 }
 ,
 {
-"name": "Condition 3: (PCP, 4D, 40)",
+"name": "Condition 3: (CP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1291,10 +850,8 @@
 }
 ,
 {
-"name": "Condition 4: (SCP, 6D, 20)",
+"name": "Condition 4: (CP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1302,10 +859,8 @@
 }
 ,
 {
-"name": "Condition 5: (SCP, 6D, 40)",
+"name": "Condition 5: (CP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1313,10 +868,8 @@
 }
 ,
 {
-"name": "Condition 6: (SCP, 4D, 20)",
+"name": "Condition 6: (ACP, phrase, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1324,31 +877,8 @@
 }
 ,
 {
-"name": "Condition 7: (SCP, 4D, 40)",
+"name": "Condition 7: (ACP, phrase, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-]
-}
-]
-}
-,
-{
-"name": "Participant 7",
-"children": [
-{
-"name": "Block 0",
-"children": [
-{
-"name": "Condition 0: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1356,10 +886,8 @@
 }
 ,
 {
-"name": "Condition 1: (PCP, 6D, 20)",
+"name": "Condition 8: (ACP, sentence, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1367,10 +895,8 @@
 }
 ,
 {
-"name": "Condition 2: (PCP, 4D, 40)",
+"name": "Condition 9: (ACP, sentence, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1378,10 +904,8 @@
 }
 ,
 {
-"name": "Condition 3: (PCP, 4D, 20)",
+"name": "Condition 10: (ACP, paragraph, typing something before CP)",
 "children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}
@@ -1389,136 +913,8 @@
 }
 ,
 {
-"name": "Condition 4: (SCP, 6D, 40)",
+"name": "Condition 11: (ACP, paragraph, isolated CP)",
 "children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 5: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 6: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 7: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-]
-}
-,
-{
-"name": "Block 1",
-"children": [
-{
-"name": "Condition 0: (PCP, 6D, 40)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 1: (PCP, 6D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 2: (PCP, 4D, 40)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 3: (PCP, 4D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 4: (SCP, 6D, 40)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 5: (SCP, 6D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 6: (SCP, 4D, 40)",
-"children": [
-{"name": "Trial 3"}
-,
-{"name": "Trial 1"}
-,
-{"name": "Trial 2"}
-]
-}
-,
-{
-"name": "Condition 7: (SCP, 4D, 20)",
-"children": [
-{"name": "Trial 3"}
-,
 {"name": "Trial 1"}
 ,
 {"name": "Trial 2"}

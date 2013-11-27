@@ -1,0 +1,6500 @@
+{
+"name": "Experiment",
+"children": [
+{
+"name": "Participant 0",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 1",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 3"}
+,
+{"name": "Trial 2"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 2",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 3",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 4",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 5",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 6",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+,
+{
+"name": "Participant 7",
+"children": [
+{
+"name": "Block 0",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 1",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+,
+{
+"name": "Block 2",
+"children": [
+{
+"name": "Condition 0: (CP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 1: (CP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 2: (CP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 3: (CP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 4: (CP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 5: (CP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 6: (CP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 7: (CP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 8: (CP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 9: (CP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 10: (CP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 11: (CP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 12: (ACP, phrase, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 13: (ACP, phrase, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 14: (ACP, phrase, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 15: (ACP, phrase, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 16: (ACP, sentence, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 17: (ACP, sentence, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 18: (ACP, sentence, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 19: (ACP, sentence, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 20: (ACP, paragraph, typing something before CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 21: (ACP, paragraph, typing something before CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 22: (ACP, paragraph, isolated CP, Keyword(s) unknown)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+,
+{
+"name": "Condition 23: (ACP, paragraph, isolated CP, Keyword(s) known)",
+"children": [
+{"name": "Trial 1"}
+,
+{"name": "Trial 2"}
+,
+{"name": "Trial 3"}
+]
+}
+]
+}
+]
+}
+]
+}

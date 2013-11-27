@@ -22,7 +22,7 @@ $user = $_COOKIE["user"];
 	Read the xml file
 */
 
-$xml = simplexml_load_file("design/AutoComPaste.xml");
+//$xml = simplexml_load_file("design/AutoComPaste.xml");
 //echo $xml->variables->independent_variable->name;
 /*
 foreach ($xml->variables->children() as $child)
