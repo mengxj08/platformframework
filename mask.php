@@ -125,7 +125,7 @@ setcookie("CurrentTrial", $CurrentTrial, time()+(3600*3));
 			   <?php echo $user ?>
 		&nbsp; Trial: <?php echo $CurrentTrial_tmp ?>/<?php echo $TrialsperBlock ?>
 		&nbsp;
-		&nbsp; Block: <?php echo ($block + 1) ?>/<?php echo ($max_blocks + 1) ?>
+		&nbsp; Block: <?php echo ($block + 1) ?>/<?php echo $max_blocks ?>
 		&nbsp;
 		<hr />	
 	</table>

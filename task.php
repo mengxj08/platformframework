@@ -122,7 +122,7 @@ $Autojson = $json["children"][$taskNum]["children"][0]["children"][$condition]["
 			  	<?php echo $user ?>
 				&nbsp; Trial: <?php echo $CurrentTrial ?>/<?php echo $TrialsperBlock ?>
 				&nbsp;
-				&nbsp; Block: <?php echo ($block + 1) ?>/<?php echo ($max_blocks + 1) ?>
+				&nbsp; Block: <?php echo ($block + 1) ?>/<?php echo $max_blocks ?>
 				&nbsp;
 			<b>Timer. <script language="JavaScript">run()</script> </b> 
 			<hr />	
