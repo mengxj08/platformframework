@@ -74,6 +74,8 @@ $msgArray = array ();
 for($i = 0; $i < $arrangementNum; $i ++)
 {
     $Automsg = null;
+    $Automsg = $Automsg . $json["children"][$i]["name"];
+    $Automsg = $Automsg . "<br />";
     $Autojson = $json["children"][$i]["children"][0]["children"];
     foreach($Autojson as $Autovalue)
     {
