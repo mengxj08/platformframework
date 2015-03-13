@@ -98,18 +98,19 @@ setcookie("CurrentTrial", $CurrentTrial, time()+(3600*3));
 <script type="text/javaScript" src="js/count_time.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
-	function jump(next_page)
-			location.href = next_page;
+	function jump(next_page){
+        location.href = next_page;
+    }
+			
 
 	function show_image()
     {
 		var i = Math.round(Math.random() * (image.length - 1));
         document.getElementById("mask").setAttribute('src', "image/" + image[i]);
     }
-
+ 
     $(document).ready(function(){
-    	show_image();
-
+    	//show_image();
 
 		var name = prompt("Any request or problem to the participant?", "null");
 		if(name != "null")
