@@ -1,4 +1,15 @@
 <?php
+
+if(!isset($_GET['taskTime'])){
+    $message = "No taskTime passed";
+    header("Location: task.php?message=".$message);
+    exit;
+}
+
+$taskTime = $_GET['taskTime'];
+
+echo $taskTime;
+
 if (!isset($_COOKIE["user"])){
     $message = "Please use a participant ID";
     header("Location: index.php?message=".$message);

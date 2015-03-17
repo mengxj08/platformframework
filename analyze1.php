@@ -9,22 +9,28 @@ if (!empty($_POST)) {
     }
 
     $user = $_POST['user'];
+
+    // save $user as cookie as a carry on data for the next pages
+    setcookie("user", $user, time()+(3600*3)); // time of expiration is 3 hours
     
 } else {
 	//echo "hello";
-    header("Location: index.php");
-    /* Make sure that code below does not get executed when we redirect. */
+    if (!isset($_COOKIE["user"])){
+    $message = "Please use a participant ID";
+    header("Location: index.php?message=".$message);
     exit;
+    }
 }
-
-// save $user as cookie as a carry on data for the next pages
-setcookie("user", $user, time()+(3600*3)); // time of expiration is 3 hours
-
 ?>
-
 <html>
 <head>
     <title>Experiment Run Template</title>
+    <script type = "text/javascript" >
+      history.pushState(null, null, 'analyze1.php');
+      window.addEventListener('popstate', function(event) {
+      history.pushState(null, null, 'analyze1.php');
+      });
+    </script>
 </head>
 <body>
 <div align="center">

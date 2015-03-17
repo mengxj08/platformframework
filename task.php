@@ -78,20 +78,22 @@ $Autojson = $json["children"][$taskNum]["children"][0]["children"][$condition]["
 ?>
 
 <html>
+<head>
 <title>Experiment Run Template</title>
 
 <link rel="stylesheet" href="css/general.css" />
 <script type="text/javaScript" src="js/count_time.js"></script>
-<script type="text/javaScript" src="js/draw_picture.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
 	function change()
 	{
+		stop_timer();
+		var taskTime = Math.floor(secs/1000);
 		jump("mask.php");
 	}
-	function jump(next_page)
+	function jump(next_page, time)
 	{
-		location.href = next_page;
+		location.href = next_page+"?taskTime="+time;
 	}
 	//monitor the space key press event, and stop the timer;
 	$(document).ready(function(){
@@ -100,13 +102,14 @@ $Autojson = $json["children"][$taskNum]["children"][0]["children"][$condition]["
 			//alert(e.keyboard);
 			if(e.which == 32)
 			{
-				//stop_timer();
+				stop_timer();
+				var taskTime = Math.floor(secs/1000);
 				//write the target tuple to the log file
 			
 				//write the spent time on this page	to the log file
 				 
 				//jump to the mask page	  
-				jump("mask.php");
+				jump("mask.php", taskTime);
 			}
 		});
 	});
