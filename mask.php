@@ -8,7 +8,6 @@ if(!isset($_GET['taskTime'])){
 
 $taskTime = $_GET['taskTime'];
 
-echo $taskTime;
 
 if (!isset($_COOKIE["user"])){
     $message = "Please use a participant ID";
@@ -77,6 +76,20 @@ if (!isset($_COOKIE["TrialsperBlock"])){
     exit;
 }
 $TrialsperBlock = $_COOKIE["TrialsperBlock"];
+
+//-----------Session start--------------
+session_start();
+$session_name = "recordedData";
+if(!isset($_SESSION[$session_name])) {
+    $message = "No session in the storage";
+    header("Location: task.php?message=".$message);
+    exit;
+}
+else{
+    $_SESSION[$session_name][$block]["children"][$condition]["children"][$trial]["time"] = $taskTime;
+}
+//
+
 
 $trial ++;
 $CurrentTrial ++;

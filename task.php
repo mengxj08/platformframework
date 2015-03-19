@@ -73,8 +73,18 @@ Retrieve the data name
 */
 
 $json = json_decode(file_get_contents("design/test.json"), true);
-$Autojson = $json["children"][$taskNum]["children"][0]["children"][$condition]["name"];
+$Autojson = $json["children"][$taskNum]["children"][$block]["children"][$condition]["name"];
 
+session_start();
+$session_name = "recordedData";
+$session_subject = "subjectID";
+
+if(!isset($_SESSION[$session_name])) {
+    $_SESSION[$session_name] = $json["children"][$taskNum]["children"];
+}
+if(!isset($_SESSION[$session_subject])) {
+    $_SESSION[$session_subject] = $user;
+}
 ?>
 
 <html>
@@ -89,7 +99,7 @@ $Autojson = $json["children"][$taskNum]["children"][0]["children"][$condition]["
 	{
 		stop_timer();
 		var taskTime = Math.floor(secs/1000);
-		jump("mask.php");
+		jump("mask.php",taskTime);
 	}
 	function jump(next_page, time)
 	{

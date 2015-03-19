@@ -28,6 +28,7 @@
 		<tr style="text-align:center">
 			<div> <font size="+1">The experiment is over. Thanks for your participating!</font></div>
 			<br />
+			<div><a href="download.php">Download</a> the resulting data.</div>
 		</tr>
 	</table>
 	
