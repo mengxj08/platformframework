@@ -12,12 +12,8 @@ if (isset($_SERVER['HTTP_COOKIE'])) {
 <html>
 <head>
 <title>Experiment Run Template</title>
-<script>
-</script>
 </head>
-
 <body>
-
 	<center>
 	<table align="center">
 		<tr id="image"> 
@@ -105,7 +101,6 @@ if (isset($_SERVER['HTTP_COOKIE'])) {
 		<input type="submit" style="width:100px; height:30px; font-weight:bold; font-size:20px" value="Start!">
 		</table>
 		</tr>
-
 		</form>		
 	</table>
 	

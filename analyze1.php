@@ -21,6 +21,8 @@ if (!empty($_POST)) {
     exit;
     }
 }
+
+$config = json_decode(file_get_contents("config/config.json"), true);
 ?>
 <html>
 <head>
@@ -41,10 +43,21 @@ if (!empty($_POST)) {
 		<font size="+2" color="#FF0033" face="Georgia, Times New Roman, Times, serif"> Welcome to the XXX vs YYY experiment! </font>
 		<br /><br />
 		<br /><br />
-		<br /><br />
-</div>	
+</div>
+<?php
+    if($config['pre-questionnaire'] && trim($config['pre-questionnaire']) != ""){
+?>
+    <div align="center">
+    <h4>Please fill in the pre-questionnaire:</h4>
+    <iframe src="<?php echo $config['pre-questionnaire']; ?>" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    </div>
+<?php
+    }
+?>
 <div style="font-size: 16pt">
-    <p>
+    <hr />
+    <p><b>Below is for experimental conductors only:</b></p>
+    <p>    
 	This part of the interface makes you choose which Interface do you want to do first. You can also modify the arrangement to whatever you want.
     </p>
     <p>
