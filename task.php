@@ -78,12 +78,16 @@ $Autojson = $json["children"][$taskNum]["children"][$block]["children"][$conditi
 session_start();
 $session_name = "recordedData";
 $session_subject = "subjectID";
+$session_betweenIV = "betweenIV";
 
 if(!isset($_SESSION[$session_name])) {
     $_SESSION[$session_name] = $json["children"][$taskNum]["children"];
 }
 if(!isset($_SESSION[$session_subject])) {
     $_SESSION[$session_subject] = $user;
+}
+if(!isset($_SESSION[$session_betweenIV])) {
+    $_SESSION[$session_betweenIV] = $json["children"][$taskNum]["name"];
 }
 ?>
 

@@ -1,0 +1,5 @@
+ParticipantID,BlockNo,IV0,IV1,TrialNo,Time
+1,Block0,L2,L4,Trial0,2
+1,Block0,L2,L3,Trial0,3
+1,Block0,L1,L4,Trial0,2
+1,Block0,L1,L3,Trial0,0
