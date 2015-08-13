@@ -1,2 +1,2 @@
-infovisplatform
+Running platform for NEXP
 ===============
