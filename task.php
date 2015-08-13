@@ -72,7 +72,7 @@ $TrialsperBlock = $_COOKIE["TrialsperBlock"];
 Retrieve the data name 
 */
 
-$json = json_decode(file_get_contents("design/test.json"), true);
+$json = json_decode(file_get_contents("design/Arrangement.json"), true);
 $Autojson = $json["children"][$taskNum]["children"][$block]["children"][$condition]["name"];
 
 session_start();

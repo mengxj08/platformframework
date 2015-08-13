@@ -33,7 +33,7 @@ foreach ($xml->variables->children() as $child)
 /*
 	Read the json file
 */
-$json = json_decode(file_get_contents("design/test.json"), true);
+$json = json_decode(file_get_contents("design/Arrangement.json"), true);
 
 $arrangementNum = sizeof($json["children"]);
 $blockNum = sizeof($json["children"][0]["children"]);
